@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+#container{
+    margin-top: 150px;
+    text-align: center;
+}
+#results{
+    margin-top: 50px;
+}
+#search{
+    background-color: rgb(233, 233, 87);
+    font-size: 30px;
+    height: 50px;
+    width: 700px;
+}
